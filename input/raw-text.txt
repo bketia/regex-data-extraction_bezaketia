@@ -1,0 +1,13 @@
+Customer Information
+
+John Doe
+Email: john.doe@alueducation.com
+Phone: +250 788 123 456
+Website: https://www.alueducation.com
+Credit Card: 4532-1234-5678-9012
+
+Mary Smith
+Email: mary.smith@alumni.alueducation.com
+Phone: (250) 722-456-789
+Website: http://example.org
+Credit Card: 5555 4444 3333 1111

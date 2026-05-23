@@ -1,0 +1,22 @@
+{
+    "emails": [
+        "john.doe@alueducation.com",
+        "mary.smith@alumni.alueducation.com"
+    ],
+    "alu_valid_emails": [
+        "john.doe@alueducation.com",
+        "mary.smith@alumni.alueducation.com"
+    ],
+    "urls": [
+        "https://www.alueducation.com",
+        "http://example.org"
+    ],
+    "phone_numbers": [
+        "+250 788 123 456",
+        "(250) 722-456-789"
+    ],
+    "credit_cards": [
+        "**** **** **** 9012",
+        "**** **** **** 1111"
+    ]
+}
